@@ -4,6 +4,9 @@
 /* [Backup mySQL & ZIP]  Backup you mySQL Database #php #class #backup */
 /* ------------------------------------------------------------------- */
 
+
+
+
 // SETUP
 $config = array(
     'backup_version'        => '1.0.0',             // version of the backup app
@@ -328,3 +331,5 @@ class backup {
     }
 
 }
+
+?>
